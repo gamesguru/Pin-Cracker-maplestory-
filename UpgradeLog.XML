@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Pin Cracker">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Pin Cracker.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Pin Cracker.suo">
+</Property><Property Name="Date" Value="Sunday, November 25, 2007">
+</Property><Property Name="Time" Value="19:35 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Pin Cracker.sln" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Pin Cracker.suo" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker.suo">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\Pin Cracker.csproj" Description="Project file successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\Pin Cracker.csproj">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\CaptureScreen.cs" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\CaptureScreen.cs">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\frmAbout.cs" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\frmAbout.cs">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\frmAbout.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\frmAbout.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\frmMain.cs" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\frmMain.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\frmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\frmSettings.cs" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\frmSettings.cs">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\frmSettings.designer.cs" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\frmSettings.designer.cs">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\MouseEvents.cs" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\MouseEvents.cs">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\PlatFormInvokeGDI32.cs" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\PlatFormInvokeGDI32.cs">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\PlatformInvokeUSER32.cs" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\PlatformInvokeUSER32.cs">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\Program.cs" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\Program.cs">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\Trainer Functions.cs" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\Trainer Functions.cs">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\UserActivityHook.cs" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\UserActivityHook.cs">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\app.config" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\app.config">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\Properties\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\Resources\smaller icon.bmp" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\Resources\smaller icon.bmp">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\pin-cracker (32x32) - Desktop and file friendly.ico" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\pin-cracker (32x32) - Desktop and file friendly.ico">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\frmAbout.resx" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\frmAbout.resx">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\frmMain.resx" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\frmSettings.resx" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\frmSettings.resx">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\Properties\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\Sheen\Desktop\Pin Cracker\Backup\Pin Cracker\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\Pin Cracker.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Pin Cracker" Source="Pin Cracker\Pin Cracker.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Pin Cracker.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Pin Cracker.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Pin Cracker" Source="Pin Cracker\Pin Cracker.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
